@@ -73,7 +73,7 @@ Here is the Terraform code I pushed earlier:
 ![Code page](images/code.png)
 
 ### No merge conflicts  
-![No conflicts](images/no conflicts.png)
+![No conflicts](images/no_conflicts.png)
 
 ---
 
